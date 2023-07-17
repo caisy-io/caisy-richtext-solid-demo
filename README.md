@@ -1,4 +1,6 @@
-# SolidStart
+# Caisy richtext example in SolidStart
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/caisy-io/caisy-richtext-solid-demo)
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
 
